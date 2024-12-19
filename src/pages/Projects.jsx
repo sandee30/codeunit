@@ -226,7 +226,7 @@ const Projects = () => {
           <h1 className='absolute z-10 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-6xl font-semibold'>
             Work Showcase
           </h1>
-          <img src=" rounded-xl overflow-hidden object-cover/projectbg.jpeg" alt="" />
+          <img src="/projectbg.jpeg" alt="" />
         </div>
 
 
