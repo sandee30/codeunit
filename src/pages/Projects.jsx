@@ -226,7 +226,7 @@ const Projects = () => {
           <h1 className='absolute z-10 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-6xl font-semibold'>
             Work Showcase
           </h1>
-          <img src="/projectbg.jpeg" alt="" />
+          <img src=" rounded-xl overflow-hidden object-cover/projectbg.jpeg" alt="" />
         </div>
 
 
@@ -271,16 +271,16 @@ const Projects = () => {
 
     <div className="wallpaper4small hidden">
 
-<div className="smallcard1">
+<div className="smallcard1 rounded-xl overflow-hidden object-cover">
   <img className='w-[90vw] mx-auto my-4' src="/burger.png" alt="" />
 </div>
-<div className="smallcard1">
+<div className="smallcard1 rounded-xl overflow-hidden object-cover">
   <img className='w-[90vw] mx-auto my-4' src="/advertise.jpg" alt="" />
 </div>
-<div className="smallcard2">
+<div className="smallcard2 rounded-xl overflow-hidden object-cover">
   <img className='w-[90vw] mx-auto my-4' src="/graphicsCoursepost.png" alt="" />
 </div>
-<div className="smallcard2">
+<div className="smallcard2 rounded-xl overflow-hidden object-cover">
   <img className='w-[90vw] mx-auto my-4' src="/flyer02_butwal.jpg" alt="" />
 </div>
 
