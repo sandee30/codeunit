@@ -43,7 +43,7 @@ const About = () => {
     <div className="info flex gap-40">
 
     <div className="about-lft w-1/2 flex flex-col items-center justify-center">
-    <div className="intro w-full h-[280px] border border-2-white shadow-xl rounded-xl mt-8 p-12 text-center">
+    <div className="intro w-full border border-2-white shadow-xl rounded-xl mt-8 p-8 text-center">
       <h1 className='text-6xl font-medium mb-5'>Hi, I'm Sandeep Pandey</h1>
       <h3 className='text-xl'>a passionate Graphic Designer and a Web Developer</h3>
       <h5 className='text-xl'>blending design with code to create sleek, responsive websites.</h5>
@@ -92,7 +92,7 @@ const About = () => {
 
     <div className="about-right">
       <div className='pic w-[460px] h-[460px] rounded-full overflow-hidden object-cover mt-3'>
-        <img src="./public/me.jpg" alt="" />
+        <img src="./me.jpg" alt="" />
        
       </div>
       <div className='btn text-center border border-white text-xl font-light py-2 mx-auto mt-6 w-[120px] rounded-xl'>Resume</div>

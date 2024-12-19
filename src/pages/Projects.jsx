@@ -226,7 +226,7 @@ const Projects = () => {
           <h1 className='absolute z-10 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-6xl font-semibold'>
             Work Showcase
           </h1>
-          <img src="./public/projectbg.jpeg" alt="" />
+          <img src="/projectbg.jpeg" alt="" />
         </div>
 
 
@@ -247,23 +247,23 @@ const Projects = () => {
 
     <div className="showwork h-[1200px] flex flex-wrap gap-10 justify-center items-center py-4 my-0">
       <div className="imgs1 W-[500px] h-[500px] aspect-square rounded-xl overflow-hidden object-cover">
-        <img src="./public/advertise.jpg" alt="" />
+        <img src="/advertise.jpg" alt="" />
       </div>
       <div className="imgs1 W-[500px] h-[500px] aspect-square rounded-xl overflow-hidden object-cover">
-        <img src="./public/burger.png" alt="" />
+        <img src="/burger.png" alt="" />
       </div>
       <div className="imgs2 W-[500px] h-[500px] aspect-square rounded-xl overflow-hidden object-cover">
-        <img src="./public/graphicsCoursepost.png" alt="" />
+        <img src="/graphicsCoursepost.png" alt="" />
       </div>
       <div className="imgs2 W-[500px] h-[500px] aspect-square rounded-xl overflow-hidden object-cover">
-        <img src="./public/flyer02_butwal.jpg" alt="" />
+        <img src="/flyer02_butwal.jpg" alt="" />
       </div>
     </div>
 
     <h1 className='scrolltxt3 font-semibold flex gap-10'>
       Ideas in Action 
       <div className='w-[120px] h-[120px] rounded-full bg-white overflow-hidden'>
-        <video src="./public/video.mp4" autoPlay loop muted></video>
+        <video src="/video.mp4" autoPlay loop muted></video>
       </div>
     </h1>
 
@@ -272,16 +272,16 @@ const Projects = () => {
     <div className="wallpaper4small hidden">
 
 <div className="smallcard1">
-  <img className='w-[90vw] mx-auto my-4' src="./public/burger.png" alt="" />
+  <img className='w-[90vw] mx-auto my-4' src="/burger.png" alt="" />
 </div>
 <div className="smallcard1">
-  <img className='w-[90vw] mx-auto my-4' src="./public/advertise.jpg" alt="" />
+  <img className='w-[90vw] mx-auto my-4' src="/advertise.jpg" alt="" />
 </div>
 <div className="smallcard2">
-  <img className='w-[90vw] mx-auto my-4' src="./public/graphicsCoursepost.png" alt="" />
+  <img className='w-[90vw] mx-auto my-4' src="/graphicsCoursepost.png" alt="" />
 </div>
 <div className="smallcard2">
-  <img className='w-[90vw] mx-auto my-4' src="./public/flyer02_butwal.jpg" alt="" />
+  <img className='w-[90vw] mx-auto my-4' src="/flyer02_butwal.jpg" alt="" />
 </div>
 
 </div>
