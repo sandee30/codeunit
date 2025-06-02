@@ -45,7 +45,7 @@ const About = () => {
     <div className="about-lft w-1/2 flex flex-col items-center justify-center">
     <div className="intro w-full border border-2-white shadow-xl rounded-xl mt-8 p-8 text-center">
       <h1 className='text-6xl font-medium mb-5'>Hi, I'm Sandeep Pandey</h1>
-      <h3 className='text-xl'>a passionate Graphic Designer and a Web Developer</h3>
+      <h3 className='text-xl'>a passionate Graphic Designer and a Frontend Developer</h3>
       <h5 className='text-xl'>blending design with code to create sleek, responsive websites.</h5>
     </div>
     <div className="skillset w-full border border-2-white rounded-xl mt-6 mx-auto">
@@ -53,9 +53,9 @@ const About = () => {
       <ul className='skillbtn-grp flex items-center justify-center flex-wrap gap-4 m-4'>
         <li className='skillbtn border border-1-white w-[150px] rounded-lg flex items-center justify-center p-2 text-lg'>Graphics</li>
         <li className='skillbtn border border-1-white w-[150px] rounded-lg flex items-center justify-center p-2 text-lg'>UI/UX</li>
-        <li className='skillbtn border border-1-white w-[150px] rounded-lg flex items-center justify-center p-2 text-lg'>Javascript</li>
+        <li className='skillbtn border border-1-white w-[150px] rounded-lg flex items-center justify-center p-2 text-lg'>Python</li>
         <li className='skillbtn border border-1-white w-[150px] rounded-lg flex items-center justify-center p-2 text-lg'>React</li>
-        <li className='skillbtn border border-1-white w-[150px] rounded-lg flex items-center justify-center p-2 text-lg'>Typescript</li>
+        <li className='skillbtn border border-1-white w-[150px] rounded-lg flex items-center justify-center p-2 text-lg'>Three Js</li>
 
       </ul>
     </div>
@@ -84,7 +84,7 @@ const About = () => {
     </a>
 
     </div>
-    <p className='text-[gray] flex items-center gap-2 text-md justify-center mt-4'><FaRegCopyright /> 2024 Sandeep Pandey. All rights reserved.</p>
+    <p className='text-[gray] flex items-center gap-2 text-md justify-center mt-4'><FaRegCopyright /> 2025 Sandeep Pandey. All rights reserved.</p>
 
 
 

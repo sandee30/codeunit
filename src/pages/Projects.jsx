@@ -3,6 +3,7 @@ import Navbar from '../components/Navbar';
 import { useGSAP } from '@gsap/react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
+// import GlowingCylinder from '../components/GlowingCylinder'
 
 
 const responsive = {
@@ -230,6 +231,8 @@ const Projects = () => {
         </div>
 
 
+        {/* <GlowingCylinder /> */}
+
 
 
 
@@ -259,14 +262,6 @@ const Projects = () => {
         <img src="/flyer02_butwal.jpg" alt="" />
       </div>
     </div>
-
-    <h1 className='scrolltxt3 font-semibold flex gap-10'>
-      Ideas in Action 
-      <div className='w-[120px] h-[120px] rounded-full bg-white overflow-hidden'>
-        <video src="/video.mp4" autoPlay loop muted></video>
-      </div>
-    </h1>
-
 
 
     <div className="wallpaper4small hidden">
@@ -309,7 +304,7 @@ const Projects = () => {
           <p className='text-xl text-white text-center text-wrap'>brand logo designs including social media pages.</p>
         </div>
         <div className="box px-6 py-7 w-[300px] h-[280px] border border-white rounded-3xl shadow-lg shadow-sky-300">
-          <h1 className='text-9xl mb-4 text-center font-bold text-white'>5+</h1>
+          <h1 className='text-9xl mb-4 text-center font-bold text-white'>3+</h1>
           <p className='text-xl text-white text-center text-wrap'>live websites on which I have worked as a frontend dev.</p>
         </div>
         <div className='note border-white w-[880px] text-xl text-center px-14 mx-auto py-[18px]'>I've worked on many projects, but I am not indexing them here because they are not public or I don't have the permission to share them.</div>
